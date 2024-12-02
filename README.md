@@ -1,11 +1,6 @@
 ## Hi there 👋
 I'm a robotic master student at EPFL with a minor in data science.
 
-<!--
-**Franchi-stsup/Franchi-stsup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm currently coding my final project of M1
 - 🌱 I’m currently learning reinforcement learning and strengthening my python skills
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +33 78 210 07 80 or via linkedin : www.linkedin.com/in/francesco-saint-supery
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm found of sailing
--->
