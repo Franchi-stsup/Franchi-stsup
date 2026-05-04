@@ -25,4 +25,5 @@ Generative AI · Agentic systems · Computer Vision · Reinforcement Learning ·
 ✉️ francesco.saintsupery@gmail.com
 
 ### ⚡ Outside the lab
-Marathon runner · Kitesurfer · Sailor (18,000 km Atlantic expedition) · Music
+Marathon runner · Kitesurfer · Sailor & Skipper (18,000 km Atlantic expedition)
+
