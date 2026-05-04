@@ -15,7 +15,7 @@ Generative AI · Agentic systems · Computer Vision · Reinforcement Learning ·
 `Python` `PyTorch` `Docker` `Spark` `Trino` `Hugging Face` `scikit-learn` `MATLAB` `C`
 
 ### 📌 Selected projects
-- 🤖 **Physics-Informed Neural Network** — k-space trajectory optimisation for MRSI (CIBM Lab, EPFL) — custom autograd through NUFFT, 42× speedup
+- 🤖 **Physics-Informed Neural Network** — k-space trajectory optimisation for MRSI (CIBM Lab, EPFL) — custom autograd through NUFFT, 42× speedup on training epoch
 - 📦 **OCR production pipeline** — Containerised CV module deployed in an autonomous shredder + mobile app backend
 - 🚂 **SBB delay prediction** — Large-scale ML pipeline on Swiss Railways data (Spark, Trino, HDFS)
 - 🐾 **Quadruped locomotion** — CPG network + PPO/SAC deep RL for legged robot control (PyBullet)
